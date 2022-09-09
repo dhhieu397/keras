@@ -1,0 +1,12 @@
+CNN:
+Mạng NN thông thường sẽ găp vấn đề về số lượng weights khi xử lý ảnh
+Mạng CNN Có 2 phần: Phần trích đặc trưng (Conv, Relu,Pool) và phần phân loại (FC, softmax)
+Convolution layers: đê trích chọn các đặc trưng của ảnh đầu vào
+
+Mạng CNN nổi tiếng:
+VGG16/ VGG19
+Inception(GoogleLeNet)
+ResNet
+Darknet-53: là mạng backbone của YOLOv3: output ra 3 output khác nhau để detect ra các vạt thể có kích thước khác nhau
+
+
